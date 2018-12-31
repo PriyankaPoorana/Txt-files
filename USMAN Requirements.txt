@@ -340,3 +340,5 @@ JOIN RMON_FCT_LOGS_HOUR_DAY_MONTH_METRICS_DIFF as b
 ON A.DEVICEID= B.DEVICEID	
 	
 Hello Priyanka	
+	
+Small change	
